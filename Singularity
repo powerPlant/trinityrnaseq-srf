@@ -1,1 +1,1 @@
-Singularity.2.13.2
+Singularity.3.8.5-2.el7
